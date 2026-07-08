@@ -11,4 +11,4 @@ Welcome to my cybersecurity portfolio.
 - Methodology: Black-box testing
 - Deliverables: Professional penetration testing report
 
-📄 **View the report:**reports/ByteBazar Web Application Penetration Test Report.pdf
+📄 **View the report:** reports/ByteBazar Web Application Penetration Test Report.pdf
