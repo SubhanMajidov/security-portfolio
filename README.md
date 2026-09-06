@@ -22,7 +22,7 @@ Two-day black-box penetration test of a PHP staff portal and its JWT-authenticat
 | **Highlights** | RCE via unrestricted file upload chained with LFI · RCE via SSTI · unauthenticated account takeover via predictable reset token · JWT `alg:none` bypass · UNION and blind SQL injection · insecure deserialisation · mass assignment · IDOR in HTTP and WebSocket handlers |
 | **Report** | Executive summary, root-cause analysis grouping 22 findings into 3 architectural causes, five-step prioritised remediation roadmap, 100 pages |
 
-📄 **[Meridian Corp Web Application Penetration Test Report](reports/Meridian_Corp_Web_Application_Penetration_Test_Report.pdf)**
+📄 **[Meridian Corp Web Application Penetration Test Report](reports/Meridian_Corp_Staff_Portal_Web_Application_Penetration_Test.pdf)**
 
 ### ByteBazar — E-commerce Platform & REST API (June 2026)
 
