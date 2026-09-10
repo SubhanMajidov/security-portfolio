@@ -44,7 +44,7 @@ Time-boxed two-hour black-box assessment of an e-commerce web application and it
 
 - **IDTech Academy — Cybersecurity (Web & Mobile Penetration Testing), Certificate of Completion with High Honor** — April–August 2026 · [PDF](certificates/IDTech_Certificate.pdf) · Credential ID `b3c15201-05e8-485c-99f4-fc9b633c0c23`
 - **TryHackMe — Jr Penetration Tester** — [Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KTCCN3IYLP.pdf)
-- **PortSwigger Web Security Academy** — all learning paths and labs completed (2026)
+- **Burp Suite Certified Practitioner (BSCP)** — in progress... (2026)
 
 ---
 
