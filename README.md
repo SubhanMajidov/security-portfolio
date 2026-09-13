@@ -4,7 +4,7 @@ Web application penetration testing reports and write-ups by **Subhan Majidov**.
 
 All engagements below were performed against deliberately vulnerable applications in authorised training environments.
 
-[LinkedIn](https://www.linkedin.com/in/subhan-majidov-9144aa306) · [TryHackMe](https://tryhackme.com/p/subhanmajidov) · [Hack The Box](https://profile.hackthebox.com/profile/019de24e-c45b-71f9-85d3-8d0310b052e2) · [My CV](cv/Subhan_Majidov_CV.pdf) · subhanmajidov@gmail.com
+[LinkedIn](https://www.linkedin.com/in/subhan-majidov-9144aa306) · [TryHackMe](https://tryhackme.com/p/subhanmajidov) · [Hack The Box](https://profile.hackthebox.com/profile/019de24e-c45b-71f9-85d3-8d0310b052e2) · [Subhan's CV](cv/Subhan_Majidov_CV.pdf) · subhanmajidov@gmail.com
 
 ---
 
