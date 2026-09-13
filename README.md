@@ -2,7 +2,7 @@
 
 Web application penetration testing reports and write-ups by **Subhan Majidov**.
 
-Junior web application penetration tester, trained at IDTech Academy (Offensive Security: Web & Mobile Penetration Testing, completed with High Honor). All engagements below were performed against deliberately vulnerable applications in authorised training environments.
+All engagements below were performed against deliberately vulnerable applications in authorised training environments.
 
 [LinkedIn](https://www.linkedin.com/in/subhan-majidov-9144aa306) · [TryHackMe](https://tryhackme.com/p/subhanmajidov) · [Hack The Box](https://profile.hackthebox.com/profile/019de24e-c45b-71f9-85d3-8d0310b052e2) · subhanmajidov@gmail.com
 
