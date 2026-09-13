@@ -6,7 +6,6 @@ All engagements below were performed against deliberately vulnerable application
 
 [LinkedIn](https://www.linkedin.com/in/subhan-majidov-9144aa306) · [TryHackMe](https://tryhackme.com/p/subhanmajidov) · [Hack The Box](https://profile.hackthebox.com/profile/019de24e-c45b-71f9-85d3-8d0310b052e2) · subhanmajidov@gmail.com
 
-📄 [My CV](cv/Subhan_Majidov_CV.pdf) — updated September 2026
 ---
 
 ## Reports
