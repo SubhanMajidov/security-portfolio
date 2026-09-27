@@ -40,11 +40,18 @@ Time-boxed two-hour black-box assessment of an e-commerce web application and it
 
 ---
 
+## Training
+
+- **PortSwigger Web Security Academy — all 273 labs completed** (61 Apprentice · 173 Practitioner · 39 Expert) — Hall of Fame rank **#253** · September 2026
+- All Burp Suite Certified Practitioner (BSCP) exam preparation steps complete, including mystery labs and the official practice exam
+
+---
+
 ## Certificates
 
 - **IDTech Academy — Cybersecurity (Web & Mobile Penetration Testing), Certificate of Completion with High Honor** — April–August 2026 · [PDF](certificates/IDTech_Certificate.pdf) · Credential ID `b3c15201-05e8-485c-99f4-fc9b633c0c23`
 - **TryHackMe — Jr Penetration Tester** — [Verify](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-KTCCN3IYLP.pdf)
-- **Burp Suite Certified Practitioner (BSCP)** — in progress... (2026)
+- **Burp Suite Certified Practitioner (BSCP)** — exam upcoming (2026)
 
 ---
 
