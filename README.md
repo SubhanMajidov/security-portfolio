@@ -43,7 +43,7 @@ Time-boxed two-hour black-box assessment of an e-commerce web application and it
 ## Training
 
 - **PortSwigger Web Security Academy — all 273 labs completed** (61 Apprentice · 173 Practitioner · 39 Expert) — Hall of Fame rank **#253** · September 2026
-- All Burp Suite Certified Practitioner (BSCP) exam preparation steps complete, including mystery labs and the official practice exam
+- **Offensive Security: Web & Mobile Penetration Testing - IDTech Academy** · April 2026 - September 2026
 
 ---
 
@@ -57,7 +57,7 @@ Time-boxed two-hour black-box assessment of an e-commerce web application and it
 
 ## Tooling
 
-Burp Suite (Proxy, Repeater, Intruder) · Nmap · FFUF · Gobuster · Dirsearch · SQLMap · curl · Kali Linux
+Burp Suite Professional · Nmap · FFUF · Gobuster · Dirsearch · SQLMap · curl · Kali Linux · ysoserial
 
 ---
 
